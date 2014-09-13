@@ -6,14 +6,15 @@
 standard-app-packages
 autopublish
 insecure
-gadicohen:famous-components
-mjnetworks:mj-famous@0.2.1-1
-iron:router
 mizzao:bootstrap-3
-splendido:accounts-templates-famous
-reactive-dict
+splendido:accounts-templates-core
+splendido:accounts-templates-bootstrap
+service-configuration
 accounts-password
 accounts-google
 accounts-facebook
-yefim:accounts-linkedin
+mjnetworks:famous@0.2.2-1
+gadicohen:famous-views
+reactive-dict
+splendido:accounts-templates-famous
 
