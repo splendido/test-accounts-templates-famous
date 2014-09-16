@@ -13,8 +13,8 @@ service-configuration
 accounts-password
 accounts-google
 accounts-facebook
-mjnetworks:famous@0.2.2-1
 gadicohen:famous-views
 reactive-dict
 splendido:accounts-templates-famous
+mjnetworks:famous
 
