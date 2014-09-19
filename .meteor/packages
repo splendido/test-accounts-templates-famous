@@ -7,14 +7,11 @@ standard-app-packages
 autopublish
 insecure
 mizzao:bootstrap-3
-splendido:accounts-templates-core
-splendido:accounts-templates-bootstrap
 service-configuration
 accounts-password
 accounts-google
 accounts-facebook
 gadicohen:famous-views
 reactive-dict
-splendido:accounts-templates-famous
 mjnetworks:famous
-
+splendido:accounts-templates-bootstrap
